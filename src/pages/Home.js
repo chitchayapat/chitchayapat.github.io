@@ -33,7 +33,7 @@ function Home() {
               />
             </h1>
             <p className="text-gray-600 mb-3">
-              Hi! My name is Pat Chimtanoo and I'm a second year Master's student in Applied Statistics at University of Michigan. I earned my Bachelor degree in Actuarial Science and Mathematics from UW-Madison, and with my background, my passion lies in the intersection of statistics and various social science topics i.e., politics, social inequality, economic and health disparity. Currently looking for a job opportunities that fit my background and skills!
+              Hi! My name is Pat Chimtanoo and I am a first-year Ph.D. student in Actuarial Science within the Department of Statistical Sciences at the University of Toronto. I am co-supervised by Professor Andrei Badescu and Professor Christopher Blier-Wong. I earned a bachelor’s degree in actuarial science from UW-Madison and a master’s in applied statistics from the University of Michigan. My research interests lie in predictive modeling and algorithmic fairness within the field of actuarial science.
             </p>
           </div>
           <div className="md:w-1/4 md:mt-0 mt-4">
