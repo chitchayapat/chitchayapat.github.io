@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6b92980f.css",
-    "main.js": "/static/js/main.4c5217f2.js",
+    "main.js": "/static/js/main.c6ea4a59.js",
     "static/js/787.10a9a636.chunk.js": "/static/js/787.10a9a636.chunk.js",
     "static/media/uw-madison-tsa.png": "/static/media/uw-madison-tsa.7262189ea97f7dacbd76.png",
     "static/media/umich.png": "/static/media/umich.ab94f5903d266a3a45f9.png",
@@ -9,13 +9,14 @@
     "static/media/profile-image.jpg": "/static/media/profile-image.2c5b8673c75a9d255256.jpg",
     "static/media/uw-madison.png": "/static/media/uw-madison.3b63ed66903daa2eeee8.png",
     "static/media/krungthai.jpeg": "/static/media/krungthai.602839419bd13a01dfec.jpeg",
+    "static/media/university-of-toronto.png": "/static/media/university-of-toronto.9a4428dfc604d8ccabcc.png",
     "index.html": "/index.html",
     "main.6b92980f.css.map": "/static/css/main.6b92980f.css.map",
-    "main.4c5217f2.js.map": "/static/js/main.4c5217f2.js.map",
+    "main.c6ea4a59.js.map": "/static/js/main.c6ea4a59.js.map",
     "787.10a9a636.chunk.js.map": "/static/js/787.10a9a636.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b92980f.css",
-    "static/js/main.4c5217f2.js"
+    "static/js/main.c6ea4a59.js"
   ]
 }
