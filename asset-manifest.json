@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6b92980f.css",
-    "main.js": "/static/js/main.c6ea4a59.js",
+    "main.js": "/static/js/main.a0b0c2da.js",
     "static/js/787.10a9a636.chunk.js": "/static/js/787.10a9a636.chunk.js",
     "static/media/uw-madison-tsa.png": "/static/media/uw-madison-tsa.7262189ea97f7dacbd76.png",
     "static/media/umich.png": "/static/media/umich.ab94f5903d266a3a45f9.png",
@@ -12,11 +12,11 @@
     "static/media/university-of-toronto.png": "/static/media/university-of-toronto.9a4428dfc604d8ccabcc.png",
     "index.html": "/index.html",
     "main.6b92980f.css.map": "/static/css/main.6b92980f.css.map",
-    "main.c6ea4a59.js.map": "/static/js/main.c6ea4a59.js.map",
+    "main.a0b0c2da.js.map": "/static/js/main.a0b0c2da.js.map",
     "787.10a9a636.chunk.js.map": "/static/js/787.10a9a636.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b92980f.css",
-    "static/js/main.c6ea4a59.js"
+    "static/js/main.a0b0c2da.js"
   ]
 }
