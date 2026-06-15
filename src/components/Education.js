@@ -46,7 +46,6 @@ function Education() {
             <div className="max-w-4/5">
               <h2 className="text-l font-bold">{education.title}</h2>
               <h2 className="text-sm font-semibold mt-1"><span dangerouslySetInnerHTML={{ __html: education.subtitle }} /></h2>
-              <h2 className="text-sm font-semibold">GPA: {education.gpa}</h2>
             </div>
           </div>
           <div>
