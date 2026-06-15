@@ -1,13 +1,21 @@
 import React from 'react';
 import UWMadisonImage from '../assets/images/uw-madison.png';
 import UMichImage from '../assets/images/umich.png';
+import UofTImage from '../assets/images/university-of-toronto.png';
 
 const educations = [
   {
+    title: 'University of Toronto',
+    subtitle: 'Ph.D. in Statistical Science',
+    date: 'Sep 2025 - Present',
+    description: '',
+    category: 'Academic',
+    image: UofTImage,
+  },
+  {
     title: 'University of Michigan, Ann Arbor',
     subtitle: 'Master of Science, Applied Statistics',
-    gpa: '3.71 / 4.00',
-    date: 'Aug 2022 - Present',
+    date: 'Aug 2022 - May 2024',
     description: '<ul class="list-disc pl-5"><li><b>Statistics Coursework</b>: Statistical Inference, Multivariate Statistical Analysis, Bayesian Modeling, Survey Sampling Theory</li></ul>',
     category: 'Academic',
     image: UMichImage,
@@ -15,7 +23,6 @@ const educations = [
   {
     title: 'University of Wisconsin-Madison',
     subtitle: 'B.B.A in Actuarial Science, B.A. in Mathematics',
-    gpa: '3.73 / 4.00',
     date: 'Sep 2018 - May 2022',
     description: '<ul class="list-disc pl-5"><li><b>Actuarial Exam</b>: Probability (July 2023), FM (Planning to Sit)</li><li><b>Actuarial Coursework</b>: Financial Mathematics, Risk Management, Loss Models, Life Contingencies</li></ul>',
     category: 'Academic',
